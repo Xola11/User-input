@@ -1,0 +1,6 @@
+C:\Users\xolak\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\xolak\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\xolak\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\xolak\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\xolak\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\xolak\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

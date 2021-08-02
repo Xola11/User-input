@@ -1,0 +1,6 @@
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\bin\Debug\LooopCounting.exe.config
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\bin\Debug\LooopCounting.exe
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\bin\Debug\LooopCounting.pdb
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\obj\Debug\LooopCounting.csproj.CoreCompileInputs.cache
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\obj\Debug\LooopCounting.exe
+C:\Users\xolak\source\repos\LooopCounting\LooopCounting\obj\Debug\LooopCounting.pdb

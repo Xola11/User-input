@@ -1,0 +1,7 @@
+C:\Users\xolak\source\repos\CODE\CODE\bin\Debug\CODE.exe.config
+C:\Users\xolak\source\repos\CODE\CODE\bin\Debug\CODE.exe
+C:\Users\xolak\source\repos\CODE\CODE\bin\Debug\CODE.pdb
+C:\Users\xolak\source\repos\CODE\CODE\obj\Debug\CODE.csproj.AssemblyReference.cache
+C:\Users\xolak\source\repos\CODE\CODE\obj\Debug\CODE.csproj.CoreCompileInputs.cache
+C:\Users\xolak\source\repos\CODE\CODE\obj\Debug\CODE.exe
+C:\Users\xolak\source\repos\CODE\CODE\obj\Debug\CODE.pdb

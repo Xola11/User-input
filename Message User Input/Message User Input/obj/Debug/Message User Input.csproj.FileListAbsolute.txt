@@ -1,0 +1,7 @@
+C:\Users\xolak\source\repos\Message User Input\Message User Input\bin\Debug\Message User Input.exe.config
+C:\Users\xolak\source\repos\Message User Input\Message User Input\bin\Debug\Message User Input.exe
+C:\Users\xolak\source\repos\Message User Input\Message User Input\bin\Debug\Message User Input.pdb
+C:\Users\xolak\source\repos\Message User Input\Message User Input\obj\Debug\Message User Input.csproj.AssemblyReference.cache
+C:\Users\xolak\source\repos\Message User Input\Message User Input\obj\Debug\Message User Input.csproj.CoreCompileInputs.cache
+C:\Users\xolak\source\repos\Message User Input\Message User Input\obj\Debug\Message User Input.exe
+C:\Users\xolak\source\repos\Message User Input\Message User Input\obj\Debug\Message User Input.pdb

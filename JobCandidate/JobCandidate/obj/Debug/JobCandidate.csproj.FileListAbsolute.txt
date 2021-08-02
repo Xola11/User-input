@@ -1,0 +1,6 @@
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\bin\Debug\JobCandidate.exe.config
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\bin\Debug\JobCandidate.exe
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\bin\Debug\JobCandidate.pdb
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\obj\Debug\JobCandidate.csproj.CoreCompileInputs.cache
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\obj\Debug\JobCandidate.exe
+C:\Users\xolak\source\repos\JobCandidate\JobCandidate\obj\Debug\JobCandidate.pdb
